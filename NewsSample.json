@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Lynn Butler",
+      "title": "No Test cricket... but SA20 blockbusters confirmed for Boxing Day, New Year’s eve",
+      "description": "The SA20 has announced its fixtures for the fourth edition of the T20 tournament to be held from 26 December to 25 January.",
+      "url": "https://www.news24.com/sport/cricket/sa20/no-test-cricket-but-sa20-blockbusters-confirmed-for-boxing-day-new-years-eve-20250709-1057",
+      "urlToImage": "https://news24cobalt.24.co.za/resources/029b-1e3243559394-4c797f69b9b0-1000/format/inline/getty_images_crop_4_.jpeg",
+      "publishedAt": "2025-07-09T17:37:50",
+      "content": "<ul><li>The fourth season of the SA20 will get under way from Boxing Day to 25 January.</li><li>No international cricket has been booked for the festive season with the SA20 the only event on the Sou… [+3034 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
